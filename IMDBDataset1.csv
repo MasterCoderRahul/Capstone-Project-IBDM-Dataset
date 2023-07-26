@@ -1,0 +1,1801 @@
+Sno,Movie_Name,Director_1,Director_2,Director_3,Duration,Year,Ratings,Metascore
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
+1,The Dark Knight,Christopher Nolan ,Not Available,Not Available,152 min,2008,9.0,84
+2,The Lord of the Rings: The Return of the King,Peter Jackson ,Not Available,Not Available,201 min,2003,9.0,94
+3,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson ,140 min,2023,8.9,86
+4,Inception,Christopher Nolan ,Not Available,Not Available,148 min,2010,8.8,74
+5,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ,Not Available,Not Available,178 min,2001,8.8,92
+6,The Lord of the Rings: The Two Towers,Peter Jackson ,Not Available,Not Available,179 min,2002,8.8,87
+7,The Matrix,Lana Wachowski, Lilly Wachowski ,Not Available,136 min,1999,8.7,73
+8,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ,Not Available,Not Available,124 min,1980,8.7,82
+9,Soorarai Pottru,Sudha Kongara ,Not Available,Not Available,153 min,2020,8.7,Not Available
+10,Terminator 2: Judgment Day,James Cameron ,Not Available,Not Available,137 min,1991,8.6,75
+11,Star Wars: Episode IV - A New Hope,George Lucas ,Not Available,Not Available,121 min,1977,8.6,90
+12,Seven Samurai,Akira Kurosawa ,Not Available,Not Available,207 min,1954,8.6,98
+13,Harakiri,Masaki Kobayashi ,Not Available,Not Available,133 min,1962,8.6,85
+14,Sita Ramam,Hanu Raghavapudi ,Not Available,Not Available,163 min,2022,8.6,Not Available
+15,Gladiator,Ridley Scott ,Not Available,Not Available,155 min,2000,8.5,67
+16,Léon: The Professional,Luc Besson ,Not Available,Not Available,110 min,1994,8.5,64
+17,Raiders of the Lost Ark,Steven Spielberg ,Not Available,Not Available,115 min,1981,8.4,85
+18,Spider-Man: Into the Spider-Verse,Bob Persichetti, Peter Ramsey, Rodney Rothman ,117 min,2018,8.4,87
+19,The Dark Knight Rises,Christopher Nolan ,Not Available,Not Available,164 min,2012,8.4,78
+20,Avengers: Endgame,Anthony Russo, Joe Russo ,Not Available,181 min,2019,8.4,78
+21,Aliens,James Cameron ,Not Available,Not Available,137 min,1986,8.4,84
+22,Oldboy,Park Chan-wook ,Not Available,Not Available,101 min,2003,8.4,77
+23,Avengers: Infinity War,Anthony Russo, Joe Russo ,Not Available,149 min,2018,8.4,68
+24,Kaithi,Lokesh Kanagaraj ,Not Available,Not Available,145 min,2019,8.4,Not Available
+25,Asuran,Vetrimaaran ,Not Available,Not Available,141 min,2019,8.4,Not Available
+26,Top Gun: Maverick,Joseph Kosinski ,Not Available,Not Available,130 min,2022,8.3,78
+27,Heat,Michael Mann ,Not Available,Not Available,170 min,1995,8.3,76
+28,Star Wars: Episode VI - Return of the Jedi,Richard Marquand ,Not Available,Not Available,131 min,1983,8.3,58
+29,Princess Mononoke,Hayao Miyazaki ,Not Available,Not Available,134 min,1997,8.3,76
+30,North by Northwest,Alfred Hitchcock ,Not Available,Not Available,136 min,1959,8.3,98
+31,Dangal,Nitesh Tiwari ,Not Available,Not Available,161 min,2016,8.3,Not Available
+32,Kantara,Rishab Shetty ,Not Available,Not Available,148 min,2022,8.3,Not Available
+33,K.G.F: Chapter 2,Prashanth Neel ,Not Available,Not Available,168 min,2022,8.3,Not Available
+34,Vikram,Lokesh Kanagaraj ,Not Available,Not Available,175 min,2022,8.3,Not Available
+35,Shershaah,Vishnuvardhan ,Not Available,Not Available,135 min,2021,8.3,Not Available
+36,Raatchasan,Ram Kumar ,Not Available,Not Available,170 min,2018,8.3,Not Available
+37,Indiana Jones and the Last Crusade,Steven Spielberg ,Not Available,Not Available,127 min,1989,8.2,65
+38,Jurassic Park,Steven Spielberg ,Not Available,Not Available,127 min,1993,8.2,68
+39,Batman Begins,Christopher Nolan ,Not Available,Not Available,140 min,2005,8.2,70
+40,Spider-Man: No Way Home,Jon Watts ,Not Available,Not Available,148 min,2021,8.2,71
+41,1917,Sam Mendes ,Not Available,Not Available,119 min,2019,8.2,78
+42,Die Hard,John McTiernan ,Not Available,Not Available,132 min,1988,8.2,72
+43,Kill Bill: Vol. 1,Quentin Tarantino ,Not Available,Not Available,111 min,2003,8.2,69
+44,V for Vendetta,James McTeigue ,Not Available,Not Available,132 min,2005,8.2,62
+45,Ran,Akira Kurosawa ,Not Available,Not Available,162 min,1985,8.2,97
+46,Demon Slayer the Movie: Mugen Train,Haruo Sotozaki ,Not Available,Not Available,117 min,2020,8.2,72
+47,Baahubali 2: The Conclusion,S.S. Rajamouli ,Not Available,Not Available,167 min,2017,8.2,Not Available
+48,Gangs of Wasseypur,Anurag Kashyap ,Not Available,Not Available,321 min,2012,8.2,89
+49,Yojimbo,Akira Kurosawa ,Not Available,Not Available,110 min,1961,8.2,93
+50,Uri: The Surgical Strike,Aditya Dhar ,Not Available,Not Available,138 min,2019,8.2,Not Available
